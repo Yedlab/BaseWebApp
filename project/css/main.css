@@ -33,6 +33,6 @@ button {
   margin-top: 60px;
 }
 
-li {
-  color:black
+.navLink { 
+  color: black; 
 }
